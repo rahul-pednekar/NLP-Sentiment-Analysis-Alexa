@@ -1,4 +1,5 @@
 # NLP-Sentiment-Analysis-Alexa
+Training Neural Network for Sentiment Analysis
 
 This problem is solved using three types of Neural Networks  
 1. Keras with Tokenizer API (Neural Networks - Multilayer Perceptron) 
